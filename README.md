@@ -2,7 +2,8 @@
 A simple Flutter weather app using OpenWeatherMap API.
 ## 📱 Screenshots
 ### 🌦️ Weather Details
-| ![Home](assets/screenshots/screenshot1.png) | ![Details](assets/screenshots/screenshot2.png) |
+| ![Weather Detail](assets/screenshots/screenshot1.png) | ![Weather Detail](assets/screenshots/screenshot2.png) |
+
 
 
 
